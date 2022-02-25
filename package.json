@@ -1,0 +1,11 @@
+{
+  "name": "crud-nodeJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:andersonzeroone/crud-nodeJS.git",
+  "author": "andersonzeroone",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
